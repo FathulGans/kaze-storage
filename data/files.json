@@ -131,6 +131,17 @@
       "url": "https://cdn-ichigo.web.id/i/G2mnRp-iMP.jpg",
       "delete_token": "P_y4wIRD9YwDjuK5gPzQBV6aEqrMkF6g",
       "created_at": "2026-10-01T00:35:55.510Z"
+    },
+    {
+      "id": "2p-tu0CRGx",
+      "filename": "2p-tu0CRGx.jpg",
+      "original_name": "image.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 68307,
+      "url": "https://cdn-ichigo.web.id/i/2p-tu0CRGx.jpg",
+      "delete_token": "otoNclD0qCVAFsVcKeb9tidn9Uix3sZQ",
+      "created_at": "2026-10-01T00:36:36.619Z"
     }
   ]
 }
