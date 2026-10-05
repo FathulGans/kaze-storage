@@ -241,6 +241,17 @@
       "url": "https://cdn-ichigo.web.id/i/jzqsURGIx7.jpg",
       "delete_token": "_9v7vVbQqE1mtion82I2kvB6_pgNvjsa",
       "created_at": "2026-10-04T11:56:03.423Z"
+    },
+    {
+      "id": "frDdxSKdb3",
+      "filename": "frDdxSKdb3.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 44855,
+      "url": "https://cdn-ichigo.web.id/i/frDdxSKdb3.jpg",
+      "delete_token": "hei61Ht-Hm2-iJSfY9C6a2U2EJ2c_2nt",
+      "created_at": "2026-10-05T00:40:15.431Z"
     }
   ]
 }
