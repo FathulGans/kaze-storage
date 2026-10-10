@@ -582,6 +582,17 @@
       "url": "https://cdn-ichigo.web.id/i/bAfHeqhWTr.jpg",
       "delete_token": "zqPEk2v7g2VwhtTg7xNv61NW2C9YCB2P",
       "created_at": "2026-10-10T01:38:19.533Z"
+    },
+    {
+      "id": "-WQG1KdIIM",
+      "filename": "-WQG1KdIIM.jpg",
+      "original_name": "bg-welcome.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 605786,
+      "url": "https://cdn-ichigo.web.id/i/-WQG1KdIIM.jpg",
+      "delete_token": "WTvA3fhjCdraxElj40GKwp-GpI-6Ycqv",
+      "created_at": "2026-10-10T01:38:24.332Z"
     }
   ]
 }
