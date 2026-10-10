@@ -428,6 +428,17 @@
       "url": "https://cdn-ichigo.web.id/i/6qYdrjE6__.jpg",
       "delete_token": "XNp6UMTZYqtTHye87s3oluUbuZoxKQRO",
       "created_at": "2026-10-10T01:37:27.207Z"
+    },
+    {
+      "id": "gxQ3LfOI1X",
+      "filename": "gxQ3LfOI1X.jpg",
+      "original_name": "ichigo-rules.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 31553,
+      "url": "https://cdn-ichigo.web.id/i/gxQ3LfOI1X.jpg",
+      "delete_token": "ndPEirS7yvWUL_I6DOxrBO9CNkpbLnYI",
+      "created_at": "2026-10-10T01:37:30.575Z"
     }
   ]
 }
