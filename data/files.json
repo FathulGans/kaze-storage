@@ -736,6 +736,17 @@
       "url": "https://cdn-ichigo.web.id/i/FOq-9wZgqc.jpg",
       "delete_token": "3VkaFilHmcO3KSiZM-_pBr-Z9CnnwRRf",
       "created_at": "2026-10-11T07:32:38.258Z"
+    },
+    {
+      "id": "U8K1DNabEY",
+      "filename": "U8K1DNabEY.zip",
+      "original_name": "IchigoMD V1.zip",
+      "ext": "zip",
+      "mime_type": "application/zip",
+      "size": 20456825,
+      "url": "https://cdn-ichigo.web.id/i/U8K1DNabEY.zip",
+      "delete_token": "TZImTFvCUc-Ro7c92WWDdRiBUZNaJXgR",
+      "created_at": "2026-10-11T09:16:44.211Z"
     }
   ]
 }
