@@ -945,6 +945,17 @@
       "url": "https://cdn-ichigo.web.id/i/4iF4d_vYHR.jpg",
       "delete_token": "Ss6TvQmYwiOSpEfezW8jeJW-_i900evL",
       "created_at": "2026-10-12T10:09:39.013Z"
+    },
+    {
+      "id": "DVgQ_jORAW",
+      "filename": "DVgQ_jORAW.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 96768,
+      "url": "https://cdn-ichigo.web.id/i/DVgQ_jORAW.mp3",
+      "delete_token": "ZXET_3NFCnqbt1aqm-W5pMI_F6XB3PU6",
+      "created_at": "2026-10-12T10:16:29.254Z"
     }
   ]
 }
