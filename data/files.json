@@ -1330,6 +1330,17 @@
       "url": "https://cdn-ichigo.web.id/i/ORH1VHwP2v.jpg",
       "delete_token": "GwSAPL53WrBKzPP803kdamADt1BKb3q8",
       "created_at": "2026-10-14T11:18:36.362Z"
+    },
+    {
+      "id": "DpofarsiWL",
+      "filename": "DpofarsiWL.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1342946,
+      "url": "https://cdn-ichigo.web.id/i/DpofarsiWL.mp3",
+      "delete_token": "MMR1-2V6PbXPPFAd6Ck8USrFCJYpu7sj",
+      "created_at": "2026-10-14T13:51:10.468Z"
     }
   ]
 }
