@@ -1319,6 +1319,17 @@
       "url": "https://cdn-ichigo.web.id/i/0g6MlsSyzA.png",
       "delete_token": "xnOCPJB9slDawCTuJWJRGRvw-dW3f9l-",
       "created_at": "2026-10-14T10:23:37.226Z"
+    },
+    {
+      "id": "ORH1VHwP2v",
+      "filename": "ORH1VHwP2v.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 18324,
+      "url": "https://cdn-ichigo.web.id/i/ORH1VHwP2v.jpg",
+      "delete_token": "GwSAPL53WrBKzPP803kdamADt1BKb3q8",
+      "created_at": "2026-10-14T11:18:36.362Z"
     }
   ]
 }
