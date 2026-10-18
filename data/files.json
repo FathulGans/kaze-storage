@@ -2045,6 +2045,17 @@
       "url": "https://cdn-ichigo.web.id/Ghn9YA-vdV.mp3",
       "delete_token": "aaCNUZ5JpfLZTxKZf6686kq6zyvc9Rf0",
       "created_at": "2026-10-18T15:02:51.436Z"
+    },
+    {
+      "id": "pbXbwvBhrd",
+      "filename": "pbXbwvBhrd.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 101029,
+      "url": "https://cdn-ichigo.web.id/pbXbwvBhrd.jpg",
+      "delete_token": "W3hpvROAJlYkwElB0aX_zPLMDLmz61qS",
+      "created_at": "2026-10-18T23:12:38.309Z"
     }
   ]
 }
