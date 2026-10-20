@@ -2298,6 +2298,17 @@
       "url": "https://cdn-ichigo.web.id/tLw_lyex0m.jpg",
       "delete_token": "iGgrJxnT6L4jvvQHYFR5M1u0CV8buhyT",
       "created_at": "2026-10-20T09:47:50.515Z"
+    },
+    {
+      "id": "HsSyHP6-1V",
+      "filename": "HsSyHP6-1V.mp3",
+      "original_name": "file.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 963022,
+      "url": "https://cdn-ichigo.web.id/HsSyHP6-1V.mp3",
+      "delete_token": "QIskdZNqbBMFIsniWefSFitmHn4hO4pG",
+      "created_at": "2026-10-20T11:29:51.042Z"
     }
   ]
 }
