@@ -2606,6 +2606,17 @@
       "url": "https://cdn-ichigo.web.id/kM7T5Nk7aK.jpg",
       "delete_token": "MDs0-B-WrHJi5B0y60aCAOV8DmJ8r8o-",
       "created_at": "2026-10-24T07:20:11.722Z"
+    },
+    {
+      "id": "AWVXOTjaxu",
+      "filename": "AWVXOTjaxu.jpg",
+      "original_name": "ichigo-welcome.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 94482,
+      "url": "https://cdn-ichigo.web.id/AWVXOTjaxu.jpg",
+      "delete_token": "mUd_UVzopdSr6IcN3MAhxrDGF3nx3lmI",
+      "created_at": "2026-10-24T10:43:27.064Z"
     }
   ]
 }
