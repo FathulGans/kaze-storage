@@ -2628,6 +2628,17 @@
       "url": "https://cdn-ichigo.web.id/STWQO_GaVi.jpg",
       "delete_token": "r6YQghBwslVyfdowesp1UPXwwzwWqdIe",
       "created_at": "2026-10-24T10:44:02.564Z"
+    },
+    {
+      "id": "NdMkyZjthV",
+      "filename": "NdMkyZjthV.jpg",
+      "original_name": "ichigo-welcome.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 25747,
+      "url": "https://cdn-ichigo.web.id/NdMkyZjthV.jpg",
+      "delete_token": "u1HnNhWuZde__VmYUe9biL6Ae_iAG4ia",
+      "created_at": "2026-10-24T15:18:00.901Z"
     }
   ]
 }
