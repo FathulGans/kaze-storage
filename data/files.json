@@ -3079,6 +3079,17 @@
       "url": "https://cdn-ichigo.web.id/GW3VlZm6cB.mp3",
       "delete_token": "_WKbMqUojECP1-8ssZHXCAa17m_6aDpz",
       "created_at": "2026-10-30T10:15:23.222Z"
+    },
+    {
+      "id": "FGtPIFElM4",
+      "filename": "FGtPIFElM4.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 5130239,
+      "url": "https://cdn-ichigo.web.id/FGtPIFElM4.mp3",
+      "delete_token": "3hpz7wawnPY92Vhe9mFaFxxv34Qr1ZJ9",
+      "created_at": "2026-10-30T10:18:24.897Z"
     }
   ]
 }
