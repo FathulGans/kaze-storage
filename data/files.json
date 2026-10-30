@@ -2903,6 +2903,17 @@
       "url": "https://cdn-ichigo.web.id/_ZIVS1l_uh.mp4",
       "delete_token": "YhvETYsl8O12_7qnQv1UGubUE6F9Bp7P",
       "created_at": "2026-10-30T01:50:05.009Z"
+    },
+    {
+      "id": "RdvGV4JWrj",
+      "filename": "RdvGV4JWrj.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 42294,
+      "url": "https://cdn-ichigo.web.id/RdvGV4JWrj.jpg",
+      "delete_token": "3YT869u616SdVbxIu42fKNwNA1a2Uy8e",
+      "created_at": "2026-10-30T01:55:31.013Z"
     }
   ]
 }
