@@ -3299,6 +3299,17 @@
       "url": "https://cdn-ichigo.web.id/ZzMC_SAB-c.jpg",
       "delete_token": "xTIZYSoP8r_JNiJOPK4F3NmZS2-tuXfQ",
       "created_at": "2026-11-01T03:10:54.800Z"
+    },
+    {
+      "id": "ytVnNhfbva",
+      "filename": "ytVnNhfbva.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 112730,
+      "url": "https://cdn-ichigo.web.id/ytVnNhfbva.jpg",
+      "delete_token": "8BJgqnXK04HSnZAk6nJjRxWU50OoAG4G",
+      "created_at": "2026-11-01T12:49:31.208Z"
     }
   ]
 }
