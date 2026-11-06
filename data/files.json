@@ -4025,6 +4025,17 @@
       "url": "https://cdn-ichigo.web.id/i3muSLGrN4.jpg",
       "delete_token": "7GwQe-psfdwy1zblXXxEL_vujJfKtii-",
       "created_at": "2026-11-06T09:55:08.942Z"
+    },
+    {
+      "id": "TvulqRriap",
+      "filename": "TvulqRriap.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 5875,
+      "url": "https://cdn-ichigo.web.id/TvulqRriap.jpg",
+      "delete_token": "_BoZa9TVN9m85Ls1myx6xsX8LZ_SrQJL",
+      "created_at": "2026-11-06T10:45:44.695Z"
     }
   ]
 }
