@@ -4300,6 +4300,17 @@
       "url": "https://cdn-ichigo.web.id/ur5U-m14X7.jpg",
       "delete_token": "uYme-HfRfPmo6m73pDzKwzktQgsoFrCo",
       "created_at": "2026-11-07T09:51:38.270Z"
+    },
+    {
+      "id": "7tGs0-rrAi",
+      "filename": "7tGs0-rrAi.mp3",
+      "original_name": "ichigo-mp3.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 492344,
+      "url": "https://cdn-ichigo.web.id/7tGs0-rrAi.mp3",
+      "delete_token": "CMcqvbTKtCuHS2TDVkPWewDF337fBYnO",
+      "created_at": "2026-11-07T10:06:25.734Z"
     }
   ]
 }
