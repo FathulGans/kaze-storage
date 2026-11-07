@@ -4256,6 +4256,17 @@
       "url": "https://cdn-ichigo.web.id/61kjURsAl6.jpg",
       "delete_token": "SOMpVp5b1aJu3c5zqOgxAJ5PtMKCwXV7",
       "created_at": "2026-11-07T08:20:58.618Z"
+    },
+    {
+      "id": "jb_FGF-ejA",
+      "filename": "jb_FGF-ejA.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 130944,
+      "url": "https://cdn-ichigo.web.id/jb_FGF-ejA.jpg",
+      "delete_token": "RhSP6ibjRo9HoRb2Uza27O4Cy5UPWIsO",
+      "created_at": "2026-11-07T08:22:04.454Z"
     }
   ]
 }
