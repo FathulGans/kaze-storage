@@ -4267,6 +4267,17 @@
       "url": "https://cdn-ichigo.web.id/jb_FGF-ejA.jpg",
       "delete_token": "RhSP6ibjRo9HoRb2Uza27O4Cy5UPWIsO",
       "created_at": "2026-11-07T08:22:04.454Z"
+    },
+    {
+      "id": "UHpmwebmZg",
+      "filename": "UHpmwebmZg.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 364504,
+      "url": "https://cdn-ichigo.web.id/UHpmwebmZg.mp3",
+      "delete_token": "U9ZibKNflT5-qWGvTtvTfOK3HlLpwuF4",
+      "created_at": "2026-11-07T08:54:53.141Z"
     }
   ]
 }
