@@ -4234,6 +4234,17 @@
       "url": "https://cdn-ichigo.web.id/ylSXLTts4-.jpg",
       "delete_token": "x---QUdaQfr4KeV7hAiAhw98R7oEziyT",
       "created_at": "2026-11-07T07:54:13.989Z"
+    },
+    {
+      "id": "MHciruC09F",
+      "filename": "MHciruC09F.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 20284,
+      "url": "https://cdn-ichigo.web.id/MHciruC09F.jpg",
+      "delete_token": "srcC-KfUxSWzqFU3yoFu8nYBPwRqdqa4",
+      "created_at": "2026-11-07T07:54:23.936Z"
     }
   ]
 }
