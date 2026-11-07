@@ -4190,6 +4190,17 @@
       "url": "https://cdn-ichigo.web.id/wLpDQh0qtF.jpg",
       "delete_token": "lk03V7Fc-y2qrDCry5h21MjVqRu-otNv",
       "created_at": "2026-11-07T06:07:59.231Z"
+    },
+    {
+      "id": "fptUtdJimu",
+      "filename": "fptUtdJimu.mp4",
+      "original_name": "ichigo-mp4.mp4",
+      "ext": "mp4",
+      "mime_type": "video/mp4",
+      "size": 5374059,
+      "url": "https://cdn-ichigo.web.id/fptUtdJimu.mp4",
+      "delete_token": "5y1lx81xFeZp7zj5MJB47kLa2_xiYWHA",
+      "created_at": "2026-11-07T06:18:41.144Z"
     }
   ]
 }
