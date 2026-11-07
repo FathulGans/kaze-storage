@@ -4124,6 +4124,17 @@
       "url": "https://cdn-ichigo.web.id/JJeeCB3YcU.png",
       "delete_token": "UtWSnOgVqDEgVpGOzJNwBZ0tgFyNw5Tb",
       "created_at": "2026-11-07T03:37:13.512Z"
+    },
+    {
+      "id": "L39UBU-pcf",
+      "filename": "L39UBU-pcf.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 364504,
+      "url": "https://cdn-ichigo.web.id/L39UBU-pcf.mp3",
+      "delete_token": "GKOSVj8PRCdeIcHXkF7T_viCYGNYyQgt",
+      "created_at": "2026-11-07T05:33:48.684Z"
     }
   ]
 }
