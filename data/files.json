@@ -4564,6 +4564,17 @@
       "url": "https://cdn-ichigo.web.id/M4kubjvYvA.jpeg",
       "delete_token": "XNyXg1M90qFFacczqG-xJT8Pht6QTjAC",
       "created_at": "2026-11-08T01:41:08.029Z"
+    },
+    {
+      "id": "HFsVaVut1O",
+      "filename": "HFsVaVut1O.jpg",
+      "original_name": "kaze.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 54783,
+      "url": "https://cdn-ichigo.web.id/HFsVaVut1O.jpg",
+      "delete_token": "REEESdp1bHtNaDy5jtzdH0lyLOmE1zHQ",
+      "created_at": "2026-11-08T01:48:44.721Z"
     }
   ]
 }
