@@ -4872,6 +4872,17 @@
       "url": "https://cdn-ichigo.web.id/v8soVrcwGW.mp3",
       "delete_token": "Rav5o7PXCnIc8A9ujAnuXPg6NtgGyhlH",
       "created_at": "2026-11-08T18:16:14.570Z"
+    },
+    {
+      "id": "y8o7NNXLtL",
+      "filename": "y8o7NNXLtL.jpg",
+      "original_name": "aicard.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 57000,
+      "url": "https://cdn-ichigo.web.id/y8o7NNXLtL.jpg",
+      "delete_token": "5sVBjPCuniW2Bnxgt5SfPDQeG5RHXIPQ",
+      "created_at": "2026-11-08T20:09:42.722Z"
     }
   ]
 }
