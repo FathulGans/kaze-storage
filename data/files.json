@@ -5191,6 +5191,17 @@
       "url": "https://cdn-ichigo.web.id/ODg25phEb2.jpg",
       "delete_token": "YyGZqO7ha3PwONVbzcnRSdFi2YnC0fI2",
       "created_at": "2026-11-09T10:37:56.380Z"
+    },
+    {
+      "id": "rCB5EC-xAM",
+      "filename": "rCB5EC-xAM.jpg",
+      "original_name": "photo.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 91393,
+      "url": "https://cdn-ichigo.web.id/rCB5EC-xAM.jpg",
+      "delete_token": "2wBoG9s6jhT7F4G316-YaLo0vjNGJA12",
+      "created_at": "2026-11-09T10:38:02.133Z"
     }
   ]
 }
