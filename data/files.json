@@ -4960,6 +4960,17 @@
       "url": "https://cdn-ichigo.web.id/MLjQ8-17CY.jpg",
       "delete_token": "G0yAZql0fY3AyTDdHqvaH1-NdbCQByqy",
       "created_at": "2026-11-09T03:17:12.969Z"
+    },
+    {
+      "id": "Z67-2VNkKQ",
+      "filename": "Z67-2VNkKQ.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 90548,
+      "url": "https://cdn-ichigo.web.id/Z67-2VNkKQ.jpg",
+      "delete_token": "4nE6vDRwqUbqdtUpYPSA_Zgk8XlMchOK",
+      "created_at": "2026-11-09T05:15:42.387Z"
     }
   ]
 }
