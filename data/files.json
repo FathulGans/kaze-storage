@@ -5565,6 +5565,17 @@
       "url": "https://cdn-ichigo.web.id/VA1yGKn_U2.jpg",
       "delete_token": "uf4x-jP5g8TgdEi92-ea1G3I7cKmvwgr",
       "created_at": "2026-11-11T02:48:24.108Z"
+    },
+    {
+      "id": "uAxq04Ijak",
+      "filename": "uAxq04Ijak.jpg",
+      "original_name": "ichigo.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 165606,
+      "url": "https://cdn-ichigo.web.id/uAxq04Ijak.jpg",
+      "delete_token": "2UfmetmDrvCuWa4IOW9VyGCWKLdSSGQN",
+      "created_at": "2026-11-11T03:56:30.974Z"
     }
   ]
 }
