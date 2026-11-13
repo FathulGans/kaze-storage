@@ -5939,6 +5939,17 @@
       "url": "https://cdn-ichigo.web.id/TeaAl7Zxn4.mp3",
       "delete_token": "rqQiL8_NcK4IeTSjSU3PUoyeQsxIfa49",
       "created_at": "2026-11-13T08:51:47.534Z"
+    },
+    {
+      "id": "zl1qObl01i",
+      "filename": "zl1qObl01i.jpg",
+      "original_name": "ichigo.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 112475,
+      "url": "https://cdn-ichigo.web.id/zl1qObl01i.jpg",
+      "delete_token": "TBIvR394Ux4JOtM6WfCOens7nzSRZnAr",
+      "created_at": "2026-11-13T09:04:59.487Z"
     }
   ]
 }
