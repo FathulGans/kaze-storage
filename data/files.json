@@ -6412,6 +6412,17 @@
       "url": "https://cdn-ichigo.web.id/WUJw3ZvpoN.jpg",
       "delete_token": "ugJFyeoiz89thOGl4WapFr_STOb4FB7m",
       "created_at": "2026-11-15T11:46:21.752Z"
+    },
+    {
+      "id": "LO2Lnn8unv",
+      "filename": "LO2Lnn8unv.mp3",
+      "original_name": "file.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 248312,
+      "url": "https://cdn-ichigo.web.id/LO2Lnn8unv.mp3",
+      "delete_token": "VwL9m0kyC3Q-7zB6kPHNovT69czSwlQ8",
+      "created_at": "2026-11-15T12:22:15.615Z"
     }
   ]
 }
