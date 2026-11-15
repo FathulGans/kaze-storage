@@ -6467,6 +6467,17 @@
       "url": "https://cdn-ichigo.web.id/_EsMcI3GrL.png",
       "delete_token": "d14Qi4wqYI3rtdoXzLHlhp2vzrWStS9L",
       "created_at": "2026-11-15T14:17:56.516Z"
+    },
+    {
+      "id": "dTd4d1POVa",
+      "filename": "dTd4d1POVa.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 160115,
+      "url": "https://cdn-ichigo.web.id/dTd4d1POVa.jpg",
+      "delete_token": "gRSPtpUaAxRRL5u_uaj7MRu8xnKu_m8Z",
+      "created_at": "2026-11-15T15:03:46.694Z"
     }
   ]
 }
