@@ -6500,6 +6500,17 @@
       "url": "https://cdn-ichigo.web.id/BxF4lbmTzB.jpg",
       "delete_token": "4gYkvHFfA58ufjrHXO15s0EeF0w0MruT",
       "created_at": "2026-11-15T17:26:19.832Z"
+    },
+    {
+      "id": "1BO9MHm5d0",
+      "filename": "1BO9MHm5d0.mp3",
+      "original_name": "file.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 11820524,
+      "url": "https://cdn-ichigo.web.id/1BO9MHm5d0.mp3",
+      "delete_token": "yGoJta3AvTiCYm4pSCGxCh2A6Pba-J5L",
+      "created_at": "2026-11-15T20:01:45.343Z"
     }
   ]
 }
