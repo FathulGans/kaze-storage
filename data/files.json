@@ -6379,6 +6379,17 @@
       "url": "https://cdn-ichigo.web.id/6i-EWeVpqr.jpg",
       "delete_token": "AtpnoBpYnLiUifgc1G4G_k32PpUS0oPC",
       "created_at": "2026-11-15T10:57:10.138Z"
+    },
+    {
+      "id": "ZzdCr6Q-Z8",
+      "filename": "ZzdCr6Q-Z8.jpg",
+      "original_name": "file.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 144016,
+      "url": "https://cdn-ichigo.web.id/ZzdCr6Q-Z8.jpg",
+      "delete_token": "ba3-dmVoq1kJqVyESO14asa-jTFqLgC0",
+      "created_at": "2026-11-15T11:00:59.121Z"
     }
   ]
 }
