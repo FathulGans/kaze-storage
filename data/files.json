@@ -6544,6 +6544,17 @@
       "url": "https://cdn-ichigo.web.id/9Hr8tZj2Qn.mp3",
       "delete_token": "oxG9juyeabTTZ-DNPJQru6FZWJyFDzy8",
       "created_at": "2026-11-16T04:47:04.824Z"
+    },
+    {
+      "id": "o94esZPlgf",
+      "filename": "o94esZPlgf.jpg",
+      "original_name": "ichigo2.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 248401,
+      "url": "https://cdn-ichigo.web.id/o94esZPlgf.jpg",
+      "delete_token": "UqOzP47GVf12szAoy1vbaRC5KNje5sI-",
+      "created_at": "2026-11-16T06:04:47.366Z"
     }
   ]
 }
