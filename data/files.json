@@ -6522,6 +6522,17 @@
       "url": "https://cdn-ichigo.web.id/cCEL4ULbPU.jpg",
       "delete_token": "nkpistne1osLkhWnaqjyjfra5J8St02u",
       "created_at": "2026-11-16T03:39:55.329Z"
+    },
+    {
+      "id": "ENJ7CSKmfy",
+      "filename": "ENJ7CSKmfy.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 379134,
+      "url": "https://cdn-ichigo.web.id/ENJ7CSKmfy.mp3",
+      "delete_token": "dxQ8d6I53vqE87L-eolH1Ow3SDSYPMlB",
+      "created_at": "2026-11-16T04:44:41.185Z"
     }
   ]
 }
