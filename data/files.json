@@ -7171,6 +7171,17 @@
       "url": "https://cdn-ichigo.web.id/E0xZU2wMyS.jpg",
       "delete_token": "Zn84k7GfQn416c42vFo0_hEPj5GEjXZB",
       "created_at": "2026-11-20T22:34:42.340Z"
+    },
+    {
+      "id": "xVUMnivUGV",
+      "filename": "xVUMnivUGV.jpg",
+      "original_name": "image.jpg",
+      "ext": "jpg",
+      "mime_type": "image/jpeg",
+      "size": 878250,
+      "url": "https://cdn-ichigo.web.id/xVUMnivUGV.jpg",
+      "delete_token": "CUv4bXr7t4LzkCugFJl2PhrClQb4uHIJ",
+      "created_at": "2026-11-20T22:51:41.160Z"
     }
   ]
 }
