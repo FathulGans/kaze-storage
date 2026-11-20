@@ -7127,6 +7127,17 @@
       "url": "https://cdn-ichigo.web.id/5enBQB0TmR.jpg",
       "delete_token": "ZJNSfvPiXNnnTNovUWtqDhZwvRGM9Gjm",
       "created_at": "2026-11-20T15:14:12.206Z"
+    },
+    {
+      "id": "luhA_kjQq5",
+      "filename": "luhA_kjQq5.mp3",
+      "original_name": "file.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 225324,
+      "url": "https://cdn-ichigo.web.id/luhA_kjQq5.mp3",
+      "delete_token": "BEOARXVreWyn2iNQJfKLFnFTQ1SCnBhd",
+      "created_at": "2026-11-20T15:17:40.263Z"
     }
   ]
 }
