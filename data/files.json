@@ -7028,6 +7028,17 @@
       "url": "https://cdn-ichigo.web.id/VYap1mRjm1.mp3",
       "delete_token": "0PysmDVMOBKnC5Qtrv7aLTZC_RhG7Rqf",
       "created_at": "2026-11-20T10:18:04.142Z"
+    },
+    {
+      "id": "8qzWr5F7DS",
+      "filename": "8qzWr5F7DS.mp3",
+      "original_name": "file.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 1002611,
+      "url": "https://cdn-ichigo.web.id/8qzWr5F7DS.mp3",
+      "delete_token": "dL2jo1BONucpcp459B6bvZPyS3FFjETK",
+      "created_at": "2026-11-20T11:58:46.124Z"
     }
   ]
 }
