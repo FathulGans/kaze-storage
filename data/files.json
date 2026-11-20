@@ -7138,6 +7138,17 @@
       "url": "https://cdn-ichigo.web.id/luhA_kjQq5.mp3",
       "delete_token": "BEOARXVreWyn2iNQJfKLFnFTQ1SCnBhd",
       "created_at": "2026-11-20T15:17:40.263Z"
+    },
+    {
+      "id": "2jy-N0f6Lh",
+      "filename": "2jy-N0f6Lh.mp3",
+      "original_name": "ichigo.mp3",
+      "ext": "mp3",
+      "mime_type": "audio/mpeg",
+      "size": 714544,
+      "url": "https://cdn-ichigo.web.id/2jy-N0f6Lh.mp3",
+      "delete_token": "m16HQWdHGriKLugb5xVuiSoBTw1a0ngZ",
+      "created_at": "2026-11-20T17:12:57.206Z"
     }
   ]
 }
